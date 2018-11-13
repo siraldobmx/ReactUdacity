@@ -38,7 +38,7 @@ const profiles = [
 const users = {
   1: {
     id: 1,
-    name: "Jane Cruz",
+    name: "Jane Cruz silva",
     userName: "coder"
   },
   2: {
